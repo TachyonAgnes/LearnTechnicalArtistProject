@@ -1,0 +1,45 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop generated files
+/*.sln
+/*.csproj
+/*.unityproj
+/*.suo
+/*.user
+/*.pidb
+/*.booproj
+/*.orig
+/*.lock.json
+/Assembly-CSharp-*/*.csproj
+/Assembly-UnityScript-*/*.csproj
+/Assembly-CSharp-Editor-*.csproj
+/Assembly-UnityScript-Editor-*.csproj
+
+# Rider generated files
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Builds
+/build/
